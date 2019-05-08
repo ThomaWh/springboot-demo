@@ -8,6 +8,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @author wh
  * @description hello mq 测试
@@ -77,5 +80,15 @@ public class RabbitMqHelloTest {
     public void fanout(){
         User user = new User("北凉","徐凤年");
         fanoutSender.send1(user);
+    }
+
+    @Test
+    public void aa(){
+        List list = new ArrayList();
+        list.add("a");
+        list.add("b");
+        String str = "b";
+        boolean contains = list.contains(str);
+        System.out.println(contains);
     }
 }

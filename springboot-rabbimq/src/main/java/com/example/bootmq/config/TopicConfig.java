@@ -61,5 +61,4 @@ public class TopicConfig {
         log.debug("绑定通配符");
         return BindingBuilder.bind(queue2).to(topicExchange).with(ALL_ROUTHINGKEY);
     }
-
 }
