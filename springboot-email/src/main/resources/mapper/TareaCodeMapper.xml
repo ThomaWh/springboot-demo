@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.example.bootemail.mapper.TareaCode" >
+  <update id="updateEnname" parameterType="string">
+     update t_area_code SET name_en = #{name} where CODE = #{code} and LEVEL = 1
+  </update>
+
+  <select id="findIdByCode" parameterType="string" resultType="string">
+      select id from t_area_code where code = #{code} and LEVEL = 1
+  </select>
+
+  <select id="findIdMyCodeTwo" parameterType="string" resultType="string">
+      select id from t_area_code where code = #{code3} and LEVEL = 2 and parent_id = #{preId1}
+  </select>
+
+  <update id="updateTwoEnname" parameterType="string">
+      update t_area_code set name_en = #{nameTwo} where CODE = #{codeTwo} and parent_id = #{preId1} and LEVEL = 2
+  </update>
+
+  <update id="updateThreeEnname" parameterType="string">
+      update t_area_code set name_en = #{name3} where CODE = #{code3} and parent_id = #{preId2} and LEVEL = 3
+  </update>
+</mapper>

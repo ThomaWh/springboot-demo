@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Location>
+	<CountryRegion Name="China" Code="1">
+		<State Name="Anhui" Code="34">
+		  <City Name="Anqing" Code="8"/>
+		  <City Name="Bengbu" Code="3"/>
+		  <City Name="Bozhou" Code="16"/>
+		  <City Name="Chaohu" Code="14"/>
+		  <City Name="Chizhou" Code="17"/>
+		  <City Name="Chuzhou" Code="11"/>
+		  <City Name="Fuyang" Code="12"/>
+		  <City Name="Hefei" Code="1"/>
+		  <City Name="Huaibei" Code="6"/>
+		  <City Name="Huainan" Code="4"/>
+		  <City Name="Huangshan" Code="10"/>
+		  <City Name="Lu&apos;an" Code="15"/>
+		  <City Name="Ma&apos;anshan" Code="5"/>
+		  <City Name="Suzhou" Code="13"/>
+		  <City Name="Tongling" Code="7"/>
+		  <City Name="Wuhu" Code="2"/>
+		  <City Name="Xuancheng" Code="18"/>
+		</State>
+		<State Name="Beijing" Code="11">
+		  <City Name="Changping" Code="21"/>
+		  <City Name="Chaoyang" Code="5"/>
+		  <City Name="Chongwen" Code="3"/>
+		  <City Name="Daxing" Code="24"/>
+		  <City Name="Dongcheng" Code="1"/>
+		  <City Name="Fangshan" Code="11"/>
+		  <City Name="Fengtai" Code="6"/>
+		  <City Name="Haidian" Code="8"/>
+		  <City Name="Huairou" Code="27"/>
+		  <City Name="Mentougou" Code="9"/>
+		  <City Name="Miyun" Code="28"/>
+		  <City Name="Pinggu" Code="26"/>
+		  <City Name="Shijingshan" Code="7"/>
+		  <City Name="Shunyi" Code="13"/>
+		  <City Name="Tongzhou" Code="12"/>
+		  <City Name="Xicheng" Code="2"/>
+		  <City Name="Xuanwu" Code="4"/>
+		  <City Name="Yanqing" Code="29"/>
+		</State>
+		<State Name="Chongqing" Code="50">
+		  <City Name="Ba&apos;nan" Code="13"/>
+		  <City Name="Beibei" Code="9"/>
+		  <City Name="Bishan" Code="27"/>
+		  <City Name="Changshou" Code="21"/>
+		  <City Name="Chengkou" Code="29"/>
+		  <City Name="Dadukou" Code="4"/>
+		  <City Name="Dazu" Code="25"/>
+		  <City Name="Dianjiang" Code="31"/>
+		  <City Name="Fengdu" Code="30"/>
+		  <City Name="Fengjie" Code="36"/>
+		  <City Name="Fuling" Code="2"/>
+		  <City Name="Hechuan" Code="82"/>
+		  <City Name="Jiangbei" Code="5"/>
+		  <City Name="Jiangjin" Code="81"/>
+		  <City Name="Jiulongpo" Code="7"/>
+		  <City Name="Kaixian" Code="34"/>
+		  <City Name="Liangping" Code="28"/>
+		  <City Name="Nan&apos;an" Code="8"/>
+		  <City Name="Nanchuan" Code="84"/>
+		  <City Name="Pengshui Miao-Tujia Autonomous Country" Code="43"/>
+		  <City Name="Qianjiang" Code="39"/>
+		  <City Name="Qijiang" Code="22"/>
+		  <City Name="Rongchang" Code="26"/>
+		  <City Name="Shapingba" Code="6"/>
+		  <City Name="Shizhu Tujia Autonomous Country" Code="40"/>
+		  <City Name="Shuangqiao" Code="11"/>
+		  <City Name="Tongliang" Code="24"/>
+		  <City Name="Tongnan" Code="23"/>
+		  <City Name="Wansheng" Code="10"/>
+		  <City Name="Wanzhou" Code="1"/>
+		  <City Name="Wulong" Code="32"/>
+		  <City Name="Wushan" Code="37"/>
+		  <City Name="Wuxi" Code="38"/>
+		  <City Name="Xiushan Tujia-Miao Autonomous Country" Code="41"/>
+		  <City Name="Yongchuan" Code="83"/>
+		  <City Name="Youyang Tujia-Miao Autonomous Country" Code="42"/>
+		  <City Name="Yubei" Code="12"/>
+		  <City Name="Yunyang" Code="35"/>
+		  <City Name="Yuzhong" Code="3"/>
+		  <City Name="Zhongxian" Code="33"/>
+		</State>
+		<State Name="Fujian" Code="35">
+		  <City Name="Fuzhou" Code="1"/>
+		  <City Name="Longyan" Code="8"/>
+		  <City Name="Nanping" Code="7"/>
+		  <City Name="Ningde" Code="9"/>
+		  <City Name="Putian" Code="3"/>
+		  <City Name="Quanzhou" Code="5"/>
+		  <City Name="Sanming" Code="4"/>
+		  <City Name="Xiamen" Code="2"/>
+		  <City Name="Zhangzhou" Code="6"/>
+		</State>
+		<State Name="Gansu" Code="62">
+		  <City Name="Baiyin" Code="3"/>
+		  <City Name="Dingxi" Code="11"/>
+		  <City Name="Gannan Tibetan Autonomous Prefecture" Code="30"/>
+		  <City Name="Jiayuguan" Code="5"/>
+		  <City Name="Jinchang" Code="2"/>
+		  <City Name="Jiuquan" Code="9"/>
+		  <City Name="Lanzhou" Code="1"/>
+		  <City Name="Linxia Hui Autonomous Prefecture" Code="29"/>
+		  <City Name="Longnan" Code="12"/>
+		  <City Name="Pingliang" Code="8"/>
+		  <City Name="Qingyang" Code="10"/>
+		  <City Name="Tianshui" Code="4"/>
+		  <City Name="Wuwei" Code="6"/>
+		  <City Name="Zhangye" Code="7"/>
+		</State>
+		<State Name="Guangdong" Code="44">
+		  <City Name="Chaozhou" Code="51"/>
+		  <City Name="Dongguan" Code="19"/>
+		  <City Name="Foshan" Code="6"/>
+		  <City Name="Guangzhou" Code="1"/>
+		  <City Name="Heyuan" Code="16"/>
+		  <City Name="Huizhou" Code="13"/>
+		  <City Name="Jiangmen" Code="7"/>
+		  <City Name="Jieyang" Code="52"/>
+		  <City Name="Maoming" Code="9"/>
+		  <City Name="Meizhou" Code="14"/>
+		  <City Name="Qingyuan" Code="18"/>
+		  <City Name="Shantou" Code="5"/>
+		  <City Name="Shanwei" Code="15"/>
+		  <City Name="Shaoguan" Code="2"/>
+		  <City Name="Shenzhen" Code="3"/>
+		  <City Name="Yangjiang" Code="17"/>
+		  <City Name="Yunfu" Code="53"/>
+		  <City Name="Zhanjiang" Code="8"/>
+		  <City Name="Zhaoqing" Code="12"/>
+		  <City Name="Zhongshan" Code="20"/>
+		  <City Name="Zhuhai" Code="4"/>
+		</State>
+		<State Name="Guangxi" Code="45">
+		  <City Name="Baise" Code="10"/>
+		  <City Name="Beihai" Code="5"/>
+		  <City Name="Chongzuo" Code="14"/>
+		  <City Name="Fangchenggang" Code="6"/>
+		  <City Name="Guigang" Code="8"/>
+		  <City Name="Guilin" Code="3"/>
+		  <City Name="Hechi" Code="12"/>
+		  <City Name="Hezhou" Code="11"/>
+		  <City Name="Laibin" Code="13"/>
+		  <City Name="Liuzhou" Code="2"/>
+		  <City Name="Nanning" Code="1"/>
+		  <City Name="Qinzhou" Code="7"/>
+		  <City Name="Wuzhou" Code="4"/>
+		  <City Name="Yulin" Code="9"/>
+		</State>
+		<State Name="Guizhou" Code="52">
+		  <City Name="Anshun" Code="4"/>
+		  <City Name="Bijie" Code="24"/>
+		  <City Name="Guiyang" Code="1"/>
+		  <City Name="Liupanshui" Code="2"/>
+		  <City Name="Qiandongnan Miao-Dong Autonomous Prefecture" Code="26"/>
+		  <City Name="Qiannan Buyi Autonomous Prefecture" Code="27"/>
+		  <City Name="Qianxinan Buyi-Miao Autonomous Prefecture" Code="23"/>
+		  <City Name="Tongren" Code="22"/>
+		  <City Name="Zunyi" Code="3"/>
+		</State>
+		<State Name="Hainan" Code="46">
+		  <City Name="Baisha Li Autonomous County" Code="A30"/>
+		  <City Name="Baoting Li-Miao Autonomous County" Code="A35"/>
+		  <City Name="Cengmai" Code="A27"/>
+		  <City Name="Danzhou" Code="93"/>
+		  <City Name="Ding&apos;an" Code="A25"/>
+		  <City Name="Dongfang" Code="97"/>
+		  <City Name="Haikou" Code="1"/>
+		  <City Name="Jiang Li Autonomous County" Code="A31"/>
+		  <City Name="Ledong Li Autonomous County" Code="A33"/>
+		  <City Name="Lingao" Code="A28"/>
+		  <City Name="Lingshui Li Autonomous County" Code="A34"/>
+		  <City Name="Nansha Qundao" Code="A38"/>
+		  <City Name="Qionghai" Code="92"/>
+		  <City Name="Qiongzhong Li-Miao Autonomous County" Code="A36"/>
+		  <City Name="Sanya" Code="2"/>
+		  <City Name="Tunchang" Code="A26"/>
+		  <City Name="Wanning" Code="96"/>
+		  <City Name="Wenchang" Code="95"/>
+		  <City Name="Wuzhishan" Code="91"/>
+		  <City Name="Xisha Qundao" Code="A37"/>
+		  <City Name="Zhongsha Qundao" Code="A39"/>
+		</State>
+		<State Name="Hebei" Code="13">
+		  <City Name="Baoding" Code="6"/>
+		  <City Name="Cangzhou" Code="9"/>
+		  <City Name="Chengde" Code="8"/>
+		  <City Name="Handan" Code="4"/>
+		  <City Name="Hengshui" Code="11"/>
+		  <City Name="Langfang" Code="10"/>
+		  <City Name="Qinhuangdao" Code="3"/>
+		  <City Name="Shijiazhuang" Code="1"/>
+		  <City Name="Tangshan" Code="2"/>
+		  <City Name="Xingtai" Code="5"/>
+		  <City Name="Zhangjiakou" Code="7"/>
+		</State>
+		<State Name="Heilongjiang" Code="23">
+		  <City Name="Da Hinggan Ling" Code="27"/>
+		  <City Name="Daqing" Code="6"/>
+		  <City Name="Harbin" Code="1"/>
+		  <City Name="Hegang" Code="4"/>
+		  <City Name="Heihe" Code="11"/>
+		  <City Name="Jiamusi" Code="8"/>
+		  <City Name="Jixi" Code="3"/>
+		  <City Name="Mudanjiang" Code="10"/>
+		  <City Name="Qiqihar" Code="2"/>
+		  <City Name="Qitaihe" Code="9"/>
+		  <City Name="Shuangyashan" Code="5"/>
+		  <City Name="Suihua" Code="12"/>
+		  <City Name="Yichun" Code="7"/>
+		</State>
+		<State Name="Henan" Code="41">
+		  <City Name="Anyang" Code="5"/>
+		  <City Name="Hebi" Code="6"/>
+		  <City Name="Jiaozuo" Code="8"/>
+		  <City Name="Jiyuan" Code="18"/>
+		  <City Name="Kaifeng" Code="2"/>
+		  <City Name="Luohe" Code="11"/>
+		  <City Name="Luoyang" Code="3"/>
+		  <City Name="Nanyang" Code="13"/>
+		  <City Name="Pingdingshan" Code="4"/>
+		  <City Name="Puyang" Code="9"/>
+		  <City Name="Sanmenxia" Code="12"/>
+		  <City Name="Shangqiu" Code="14"/>
+		  <City Name="Xinxiang" Code="7"/>
+		  <City Name="Xinyang" Code="15"/>
+		  <City Name="Xuchang" Code="10"/>
+		  <City Name="Zhengzhou" Code="1"/>
+		  <City Name="Zhoukou" Code="16"/>
+		  <City Name="Zhumadian" Code="17"/>
+		</State>
+		<State Name="Hongkong SAR" Code="81"/>
+		<State Name="Hubei" Code="42">
+		  <City Name="Enshi Tujia-Miao Autonomous Prefecture" Code="28"/>
+		  <City Name="Ezhou" Code="7"/>
+		  <City Name="Huanggang" Code="11"/>
+		  <City Name="Huangshi" Code="2"/>
+		  <City Name="Jingmen" Code="8"/>
+		  <City Name="Jingzhou" Code="10"/>
+		  <City Name="Qianjiang" Code="95"/>
+		  <City Name="Shennongjia" Code="A21"/>
+		  <City Name="Shiyan" Code="3"/>
+		  <City Name="Suizhou" Code="13"/>
+		  <City Name="Tianmen" Code="96"/>
+		  <City Name="Wuhan" Code="1"/>
+		  <City Name="Xiangfan" Code="6"/>
+		  <City Name="Xianning" Code="12"/>
+		  <City Name="Xiantao" Code="94"/>
+		  <City Name="Xiaogan" Code="9"/>
+		  <City Name="Yichang" Code="5"/>
+		</State>
+		<State Name="Hunan" Code="43">
+		  <City Name="Changde" Code="7"/>
+		  <City Name="Changsha" Code="1"/>
+		  <City Name="Chenzhou" Code="10"/>
+		  <City Name="Hengyang" Code="4"/>
+		  <City Name="Huaihua" Code="12"/>
+		  <City Name="Loudi" Code="13"/>
+		  <City Name="Shaoyang" Code="5"/>
+		  <City Name="Xiangtan" Code="3"/>
+		  <City Name="Xiangxi Tujia-Miao Autonomous Prefecture" Code="31"/>
+		  <City Name="Yiyang" Code="9"/>
+		  <City Name="Yongzhou" Code="11"/>
+		  <City Name="Yueyang" Code="6"/>
+		  <City Name="Zhangjiajie" Code="8"/>
+		  <City Name="Zhuzhou" Code="2"/>
+		</State>
+		<State Name="Inner Mongolia" Code="15">
+		  <City Name="Alxa" Code="29"/>
+		  <City Name="Baotou" Code="2"/>
+		  <City Name="Bayannur" Code="8"/>
+		  <City Name="Chifeng" Code="4"/>
+		  <City Name="Hohhot" Code="1"/>
+		  <City Name="Hulun Buir" Code="7"/>
+		  <City Name="Ordos" Code="6"/>
+		  <City Name="Tongliao" Code="5"/>
+		  <City Name="Ulan Qab" Code="9"/>
+		  <City Name="Wuhai" Code="3"/>
+		  <City Name="Xilin Gol" Code="25"/>
+		  <City Name="Xing&apos;an" Code="22"/>
+		</State>
+		<State Name="Jiangsu" Code="32">
+		  <City Name="Changzhou" Code="4"/>
+		  <City Name="Huai&apos;an" Code="8"/>
+		  <City Name="Lianyungang" Code="7"/>
+		  <City Name="Nanjing" Code="1"/>
+		  <City Name="Nantong" Code="6"/>
+		  <City Name="Suqian" Code="13"/>
+		  <City Name="Suzhou" Code="5"/>
+		  <City Name="Taizhou" Code="12"/>
+		  <City Name="Wuxi" Code="2"/>
+		  <City Name="Xuzhou" Code="3"/>
+		  <City Name="Yancheng" Code="9"/>
+		  <City Name="Yangzhou" Code="10"/>
+		  <City Name="Zhenjiang" Code="11"/>
+		</State>
+		<State Name="Jiangxi" Code="36">
+		  <City Name="Fuzhou" Code="10"/>
+		  <City Name="Ganzhou" Code="7"/>
+		  <City Name="Ji&apos;an" Code="8"/>
+		  <City Name="Jingdezhen" Code="2"/>
+		  <City Name="Jiujiang" Code="4"/>
+		  <City Name="Nanchang" Code="1"/>
+		  <City Name="Pingxiang" Code="3"/>
+		  <City Name="Shangrao" Code="11"/>
+		  <City Name="Xinyu" Code="5"/>
+		  <City Name="Yichun" Code="9"/>
+		  <City Name="Yingtan" Code="6"/>
+		</State>
+		<State Name="Jilin" Code="22">
+		  <City Name="Baicheng" Code="8"/>
+		  <City Name="Baishan" Code="6"/>
+		  <City Name="Changchun" Code="1"/>
+		  <City Name="Jilin" Code="2"/>
+		  <City Name="Liaoyuan" Code="4"/>
+		  <City Name="Siping" Code="3"/>
+		  <City Name="Songyuan" Code="7"/>
+		  <City Name="Tonghua" Code="5"/>
+		  <City Name="Yanbian Korean Autonomous Prefecture" Code="24"/>
+		</State>
+		<State Name="Liaoning" Code="21">
+		  <City Name="Anshan" Code="3"/>
+		  <City Name="Benxi" Code="5"/>
+		  <City Name="Chaoyang" Code="13"/>
+		  <City Name="Dalian" Code="2"/>
+		  <City Name="Dandong" Code="6"/>
+		  <City Name="Fushun" Code="4"/>
+		  <City Name="Fuxin" Code="9"/>
+		  <City Name="Huludao" Code="14"/>
+		  <City Name="Jinzhou" Code="7"/>
+		  <City Name="Liaoyang" Code="10"/>
+		  <City Name="Panjin" Code="11"/>
+		  <City Name="Shenyang" Code="1"/>
+		  <City Name="Tieling" Code="12"/>
+		  <City Name="Yingkou" Code="8"/>
+		</State>
+		<State Name="Macao SAR" Code="82"/>
+		<State Name="Ningxia" Code="64">
+		  <City Name="Guyuan" Code="4"/>
+		  <City Name="Shizuishan" Code="2"/>
+		  <City Name="Wuzhong" Code="3"/>
+		  <City Name="Yinchuan" Code="1"/>
+		  <City Name="Zhongwei" Code="5"/>
+		</State>
+		<State Name="Qinghai" Code="63">
+		  <City Name="Guoluo Tibetan Autonomous Prefecture" Code="26"/>
+		  <City Name="Haibei Tibetan Autonomous Prefecture" Code="22"/>
+		  <City Name="Haidong" Code="21"/>
+		  <City Name="Hainan Tibetan Autonomous Prefecture" Code="25"/>
+		  <City Name="Haixi Mongol-Tibetan Autonomous Prefecture" Code="28"/>
+		  <City Name="Huangnan Tibetan Autonomous Prefecture" Code="23"/>
+		  <City Name="Xining" Code="1"/>
+		  <City Name="Yushu Tibetan Autonomous Prefecture" Code="27"/>
+		</State>
+		<State Name="Shanxi" Code="61">
+		  <City Name="Ankang" Code="9"/>
+		  <City Name="Baoji" Code="3"/>
+		  <City Name="Hanzhong" Code="7"/>
+		  <City Name="Shangluo" Code="10"/>
+		  <City Name="Tongchuan" Code="2"/>
+		  <City Name="Weinan" Code="5"/>
+		  <City Name="Xi&apos;an" Code="1"/>
+		  <City Name="Xianyang" Code="4"/>
+		  <City Name="Yan&apos;an" Code="6"/>
+		  <City Name="Yulin" Code="8"/>
+		</State>
+		<State Name="Shandong" Code="37">
+		  <City Name="Binzhou" Code="16"/>
+		  <City Name="Dezhou" Code="14"/>
+		  <City Name="Dongying" Code="5"/>
+		  <City Name="Heze" Code="17"/>
+		  <City Name="Jinan" Code="1"/>
+		  <City Name="Jining" Code="8"/>
+		  <City Name="Laiwu" Code="12"/>
+		  <City Name="Liaocheng" Code="15"/>
+		  <City Name="Linyi" Code="13"/>
+		  <City Name="Qingdao" Code="2"/>
+		  <City Name="Rizhao" Code="11"/>
+		  <City Name="Tai&apos;an" Code="9"/>
+		  <City Name="Weifang" Code="7"/>
+		  <City Name="Weihai" Code="10"/>
+		  <City Name="Yantai" Code="6"/>
+		  <City Name="Zaozhuang" Code="4"/>
+		  <City Name="Zibo" Code="3"/>
+		</State>
+		<State Name="Shanghai" Code="31">
+		  <City Name="Baoshan" Code="13"/>
+		  <City Name="Changning" Code="5"/>
+		  <City Name="Chongming" Code="30"/>
+		  <City Name="Fengxian" Code="26"/>
+		  <City Name="Hongkou" Code="9"/>
+		  <City Name="Huangpu" Code="1"/>
+		  <City Name="Jiading" Code="14"/>
+		  <City Name="Jing&apos;an" Code="6"/>
+		  <City Name="Jinshan" Code="16"/>
+		  <City Name="Luwan" Code="3"/>
+		  <City Name="Minhang" Code="12"/>
+		  <City Name="Nanhui" Code="25"/>
+		  <City Name="Pudongxin" Code="15"/>
+		  <City Name="Putuo" Code="7"/>
+		  <City Name="Qingpu" Code="29"/>
+		  <City Name="Songjiang" Code="17"/>
+		  <City Name="Xuhui" Code="4"/>
+		  <City Name="Yangpu" Code="11"/>
+		  <City Name="Zhabei" Code="8"/>
+		</State>
+		<State Name="Shanxi" Code="14">
+		  <City Name="Changzhi" Code="4"/>
+		  <City Name="Datong" Code="2"/>
+		  <City Name="Jincheng" Code="5"/>
+		  <City Name="Jinzhong" Code="7"/>
+		  <City Name="Linfen" Code="10"/>
+		  <City Name="luliang" Code="11"/>
+		  <City Name="Shuozhou" Code="6"/>
+		  <City Name="Taiyuan" Code="1"/>
+		  <City Name="Xinzhou" Code="9"/>
+		  <City Name="Yangquan" Code="3"/>
+		  <City Name="Yuncheng" Code="8"/>
+		</State>
+		<State Name="Sichuan" Code="51">
+		  <City Name="Aba Tibetan-Qiang Autonomous Prefecture" Code="32"/>
+		  <City Name="Bazhong" Code="19"/>
+		  <City Name="Chengdu" Code="1"/>
+		  <City Name="Dazhou" Code="17"/>
+		  <City Name="Deyang" Code="6"/>
+		  <City Name="Garze Tibetan Autonomous Prefecture" Code="33"/>
+		  <City Name="Guang&apos;an" Code="16"/>
+		  <City Name="Guangyuan" Code="8"/>
+		  <City Name="Leshan" Code="11"/>
+		  <City Name="Liangshan Yi Autonomous Prefecture" Code="34"/>
+		  <City Name="Luzhou" Code="5"/>
+		  <City Name="Meishan" Code="14"/>
+		  <City Name="Mianyang" Code="7"/>
+		  <City Name="Nancong" Code="13"/>
+		  <City Name="Neijiang" Code="10"/>
+		  <City Name="Panzhihua" Code="4"/>
+		  <City Name="Suining" Code="9"/>
+		  <City Name="Ya&apos;an" Code="18"/>
+		  <City Name="Yibin" Code="15"/>
+		  <City Name="Zigong" Code="3"/>
+		  <City Name="Ziyang" Code="20"/>
+		</State>
+		<State Name="Taiwan" Code="71">
+		  <City Name="Changhwa County" Code="14"/>
+		  <City Name="Chiayi City" Code="7"/>
+		  <City Name="Chiayi County" Code="17"/>
+		  <City Name="Hsinchu City" Code="6"/>
+		  <City Name="Hsinchu County" Code="11"/>
+		  <City Name="Hualian County" Code="23"/>
+		  <City Name="Ilan County" Code="9"/>
+		  <City Name="Kaohsiung City" Code="2"/>
+		  <City Name="Kaohsiung County" Code="19"/>
+		  <City Name="Keelung City" Code="3"/>
+		  <City Name="Miaoli County" Code="12"/>
+		  <City Name="Nantou County" Code="15"/>
+		  <City Name="Penghu County" Code="21"/>
+		  <City Name="Pingtung County" Code="20"/>
+		  <City Name="Taichung City" Code="4"/>
+		  <City Name="Taichung County" Code="13"/>
+		  <City Name="Tainan City" Code="5"/>
+		  <City Name="Tainan County" Code="18"/>
+		  <City Name="Taipei City" Code="1"/>
+		  <City Name="Taipei County" Code="8"/>
+		  <City Name="Taitung County" Code="22"/>
+		  <City Name="Taoyuan County" Code="10"/>
+		  <City Name="Yunnlin County" Code="16"/>
+		</State>
+		<State Name="Tianjin" Code="12">
+		  <City Name="Baodi" Code="24"/>
+		  <City Name="Beichen" Code="13"/>
+		  <City Name="Dagang" Code="9"/>
+		  <City Name="Dongli" Code="10"/>
+		  <City Name="Hangu" Code="8"/>
+		  <City Name="Hebei" Code="5"/>
+		  <City Name="Hedong" Code="2"/>
+		  <City Name="Heping" Code="1"/>
+		  <City Name="Hexi" Code="3"/>
+		  <City Name="Hongqiao" Code="6"/>
+		  <City Name="Jinghai" Code="23"/>
+		  <City Name="Jinnan" Code="12"/>
+		  <City Name="Jixian" Code="25"/>
+		  <City Name="Nankai" Code="4"/>
+		  <City Name="Ninghe" Code="21"/>
+		  <City Name="Tanggu" Code="7"/>
+		  <City Name="Wuqing" Code="22"/>
+		  <City Name="Xiqing" Code="11"/>
+		</State>
+		<State Name="Tibet" Code="54">
+		  <City Name="Lhasa" Code="1"/>
+		  <City Name="Nagqu" Code="24"/>
+		  <City Name="Ngari" Code="25"/>
+		  <City Name="Nyingchi" Code="26"/>
+		  <City Name="Qamdo" Code="21"/>
+		  <City Name="Shannan" Code="22"/>
+		  <City Name="Xigaze" Code="23"/>
+		</State>
+		<State Name="Xinjiang" Code="65">
+		  <City Name="Aksu" Code="29"/>
+		  <City Name="Alar" Code="92"/>
+		  <City Name="Altay" Code="43"/>
+		  <City Name="Bayingolin Mongol Autonomous Prefecture" Code="28"/>
+		  <City Name="Bortala Mongol Autonomous Prefecture" Code="27"/>
+		  <City Name="Changji Hui Autonomous Prefecture" Code="23"/>
+		  <City Name="Hami" Code="22"/>
+		  <City Name="Hotan" Code="32"/>
+		  <City Name="Ili Kazakh Autonomous Prefecture" Code="40"/>
+		  <City Name="Karamay" Code="2"/>
+		  <City Name="Kashi" Code="31"/>
+		  <City Name="Kizilsu Kirgiz Autonomous Prefecture" Code="30"/>
+		  <City Name="Shihezi" Code="91"/>
+		  <City Name="Tacheng" Code="42"/>
+		  <City Name="Tumsuk" Code="93"/>
+		  <City Name="Turpan" Code="21"/>
+		  <City Name="Urumqi" Code="1"/>
+		  <City Name="Wujiaqu" Code="94"/>
+		</State>
+		<State Name="Yunnan" Code="53">
+		  <City Name="Baoshan" Code="5"/>
+		  <City Name="Chuxiong Yi Autonomous Prefecture" Code="23"/>
+		  <City Name="Dali Bai Autonomous Prefecture" Code="29"/>
+		  <City Name="Dehong Dai-Jingpo Autonomous Prefecture" Code="31"/>
+		  <City Name="Diqing Tibetan Autonomous Prefecture" Code="34"/>
+		  <City Name="Honghe Hani-Yi Autonomous Prefecture" Code="25"/>
+		  <City Name="Kunming" Code="1"/>
+		  <City Name="Lijiang" Code="7"/>
+		  <City Name="Lincang" Code="9"/>
+		  <City Name="Nujiang Lisu Autonomous Prefecture" Code="33"/>
+		  <City Name="Pu&apos;er" Code="8"/>
+		  <City Name="Qujing" Code="3"/>
+		  <City Name="Wenshan Zhuang-Miao Autonomous Prefecture" Code="26"/>
+		  <City Name="Xishuangbanna Dai Autonomous Prefecture" Code="28"/>
+		  <City Name="Yuxi" Code="4"/>
+		  <City Name="Zhaotong" Code="6"/>
+		</State>
+		<State Name="Zhejiang" Code="33">
+		  <City Name="Hangzhou" Code="1"/>
+		  <City Name="Huzhou" Code="5"/>
+		  <City Name="Jiaxing" Code="4"/>
+		  <City Name="Jinhua" Code="7"/>
+		  <City Name="Lishui" Code="11"/>
+		  <City Name="Ningbo" Code="2"/>
+		  <City Name="Quzhou" Code="8"/>
+		  <City Name="Shaoxing" Code="6"/>
+		  <City Name="Taizhou" Code="10"/>
+		  <City Name="Wenzhou" Code="3"/>
+		  <City Name="Zhoushan" Code="9"/>
+		</State>
+	</CountryRegion>
+ <Location>

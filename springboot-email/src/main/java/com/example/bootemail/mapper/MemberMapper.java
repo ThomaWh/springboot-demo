@@ -10,4 +10,5 @@ public interface MemberMapper {
     int insertSelective(Member record);
 
     Member findMemberById(int memberId);
+
 }
