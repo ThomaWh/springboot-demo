@@ -29,5 +29,7 @@ public abstract class BaseMongodbDao<T> {
         return this.mongoTemplate.findOne(query,this.getEntityClass());
     }
 
-
+    /**
+     * 根据实际业务需求增加CRUD通用方法
+     */
 }
