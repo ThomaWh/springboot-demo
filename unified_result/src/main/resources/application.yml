@@ -1,0 +1,9 @@
+
+system:
+  ignore:
+    login:
+      url:
+    response:
+     advice: /rest/api/doc
+server:
+  port: 6628
